@@ -19,12 +19,12 @@
       "template": "00_Inbox/Templates/일간노트_템플릿.md"
     },
     {
-      "folder": "01_Project",
+      "folder": "01_Project/대표이사지시",
       "template": "00_Inbox/Templates/지시업무_템플릿.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "02_Area/투자분석",
+      "template": "00_Inbox/Templates/투자분석_템플릿.md"
     }
   ],
   "enable_file_templates": false,

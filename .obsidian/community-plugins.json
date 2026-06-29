@@ -3,8 +3,10 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
-  "calendar",
   "obsidian-git",
   "smart-connections",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "periodic-notes",
+  "tag-wrangler",
+  "calendar"
 ]

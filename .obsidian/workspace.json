@@ -22,17 +22,18 @@
             }
           },
           {
-            "id": "fc84101e9aaf59f2",
+            "id": "4e90fcbd37b58a6e",
             "type": "leaf",
             "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-29 15.59.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-29 15.59.33.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,10 +87,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "399f87cc4c80de26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd25ec4009458bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5046501159668
   },
   "right": {
     "id": "57df336174ca9bb3",
@@ -124,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Personal/업무일지/2026-06-28.md",
+                "file": "05_Personal/업무일지/2026-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-06-28 의 나가는 링크"
+              "title": "2026-06-29 의 나가는 링크"
             }
           },
           {
@@ -167,23 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Personal/업무일지/2026-06-28.md",
+                "file": "05_Personal/업무일지/2026-06-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-28 의 개요"
-            }
-          },
-          {
-            "id": "1bcef012c3548707",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "2026-06-29 의 개요"
             }
           },
           {
@@ -197,11 +204,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,15 +226,23 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b1534398665a0666",
+  "active": "4a4e15e4789ad639",
   "lastOpenFiles": [
-    "00_Inbox/옵시디언 설계구조 (PARA + Zettelkasten 혼합).md",
     "00_Inbox/Templates/일간노트_템플릿.md",
     "05_Personal/업무일지/2026-06-29.md",
     "05_Personal/업무일지/2026-06-28.md",
-    "00_Inbox/Templates/회의록_템플릿.md"
+    "Excalidraw/Drawing 2026-06-29 15.59.33.excalidraw.md",
+    "Excalidraw",
+    "00_Inbox/옵시디언 설계구조 (PARA + Zettelkasten 혼합).md",
+    "2026-06-29.md",
+    "무제.md",
+    "00_Inbox/Templates/회의록_템플릿.md",
+    "00_Inbox/Templates/투자분석_템플릿.md",
+    "00_Inbox/Templates/지시업무_템플릿.md",
+    "홈.md"
   ]
 }
